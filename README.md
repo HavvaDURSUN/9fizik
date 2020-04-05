@@ -70,26 +70,37 @@ PENNE PASTA
 	
    5 gram tereyağı = 36 k/cal
 
-----------------------------------
-
+--------------------------
 Toplam = 180 k/cal	
 _____________________________________
 
 
 VÜCUT KİTLE İNDEKSLERİ	
 
- •Annem >>> Boy=1.55	
-	  Kilo=63	
-	  VKİ=26.22	
+ ×Annem >>> 
+             VKİ=26.22	
+
+	     Kilo=63
 	
- •Babam >>> Boy=1.90	
-	  Kilo=94	
-	  VKİ=26.03	
+	     Boy=1.55	
+	
+ ×Babam >>> 
+            VKİ=26.03	
 
- •Kardeşim >>> Boy=1.58	
-	     Kilo=50	
-	     VKİ=20.02	
+	    Kilo=94	
 
- •Ben >>> Boy=1.68	
-	Kilo=45			
-	VKİ=15.94	
+	    Boy=1.90	
+
+ ×Kardeşim >>> 
+	       VKİ=20.02
+
+	       Kilo=50	
+
+	       Boy=1.58	
+
+ ×Ben >>>
+	  VKİ=15.94
+	
+	  Kilo=45
+			
+	  Boy=1.68	
